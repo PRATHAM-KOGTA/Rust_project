@@ -1,0 +1,6 @@
+[workspace]
+ 
+ members=[
+    "fibonacci_series",
+    "fibonacci_lib"
+ ]
